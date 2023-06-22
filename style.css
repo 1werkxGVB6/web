@@ -1,0 +1,45 @@
+.title {
+    font-size: 45px;
+    font-weight: 900;
+    color: crimson;
+    text-align: center;
+}
+
+div {
+    box-shadow: 0px 10px 100px 60px black;
+}
+
+.red {
+    height: 50px;
+    background: red;
+}
+
+.or {
+    height: 50px;
+    background: orange;
+}
+
+.yll {
+    height: 50px;
+    background: yellow;
+}
+
+.rg {
+    height: 50px;
+    background: green;
+}
+
+.bl {
+    height: 50px;
+    background: rgb(173, 216, 230);
+}
+
+.bll {
+    height: 50px;
+    background: blue;
+}
+
+.pl {
+    height: 50px;
+    background: purple;
+}
